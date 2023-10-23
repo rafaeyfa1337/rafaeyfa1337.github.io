@@ -1,0 +1,82 @@
+
+<!DOCTYPE html>
+<html lang="en">
+
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="format-detection" content="telephone=no">
+	<meta name="robots" content="index,follow">
+        <title>Home | Rafaeyfa1337</title>
+        <style>
+            @font-face {
+                font-family: bios;
+                src: url(https://rafaeyfa1337.github.io/fontx.ttf);
+            }
+
+            :root {
+                height: 100%;
+                font-family: bios;
+            }
+
+            body {
+                display: flex;
+                margin: 0;
+                height: 100%;
+                background-color: #000;
+            }
+
+            main {
+                margin: auto;
+                /* margin: calc(50vh - 3rem) auto auto auto; */
+                text-align: center;
+            }
+
+            h1,
+            p {
+                margin: 0;
+                padding: 1rem 0;
+                font-size: 1.5rem;
+                color: lime;
+            }
+
+            pre {
+                margin: 1rem;
+                padding: 0.5rem;
+                border-radius: 0.5rem;
+                background-color: #112;
+                color: #a99;
+                font-family: bios;
+            }
+
+            a {
+                text-decoration: none;
+                color: lime;
+            }
+        </style>
+    </head>
+
+    <body>
+        <main>
+            <h1>Home | Rafaeyfa1337</h1>
+            <p>Dont talk to much, just do it!<br />
+                <!--<img height="100px" width="400px"
+                    src="" />-->
+            </p>
+<pre>    ____        ____                 ____         __________________
+   / __ \____ _/ __/___ ____  __  __/ __/___ _   <  /__  /__  /__  /
+  / /_/ / __ `/ /_/ __ `/ _ \/ / / / /_/ __ `/   / / /_ < /_ <  / / 
+ / _, _/ /_/ / __/ /_/ /  __/ /_/ / __/ /_/ /   / /___/ /__/ / / /  
+/_/ |_|\__,_/_/  \__,_/\___/\__, /_/  \__,_/   /_//____/____/ /_/   
+                           /____/   (GitHub Pages)
+</pre>
+<p>
+    [<a href="#">Facebook</a>]
+    [<a href="#">Instagram</a>]
+    [<a href="#">Twitter</a>]
+</p>
+        </main>
+    </body>
+
+</html>
+
