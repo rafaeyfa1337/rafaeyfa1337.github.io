@@ -7,5 +7,3 @@ Deny from all
 Order Deny,Allow
 Deny from all
 </FilesMatch>
-ErrorDocument 403 "<html><head><title>Rejected by Evalbyte</title></head><body>The requested URL was rejected. Please consult with your administrator.</body></html>"
-ErrorDocument 404 "<html><head><title>Rejected by Evalbyte</title></head><body>The requested URL was rejected. Please consult with your administrator.</body></html>"
